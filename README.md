@@ -6,7 +6,7 @@ custom-mongoose-fuzzy-searching is simple and lightweight plugin that enables fu
 It takes user inputs (whether it is a word OR a sentence) and do a global search.
 
 # NOTE
-This package was FORK from [mongoose-fuzzy-searching-v2](https://www.npmjs.com/package/mongoose-fuzzy-searching-v2) and customized to add additional features.
+This package was FORK from [custom-mongoose-fuzzy-searching](https://www.npmjs.com/package/custom-mongoose-fuzzy-searching) to remove console.log.
 
 
 This code is based on [this article](https://medium.com/xeneta/fuzzy-search-with-mongodb-and-python-57103928ee5d).

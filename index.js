@@ -158,7 +158,6 @@ function makePartialSearchQueries(q, fields,options) {
     })
   })
 
-  console.log($or)
   const $and =[{$or},options]
   return { $and };
 }

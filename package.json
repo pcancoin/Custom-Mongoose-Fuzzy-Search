@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "custom-mongoose-fuzzy-searching",
+  "name": "mongoose-fuzzy",
   "peerDependencies": {
     "mongoose": "4.x || 5.x"
   },
